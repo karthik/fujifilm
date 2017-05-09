@@ -10,13 +10,14 @@ I used to love shooting with my dad's manual camera growing up and have happily 
 # Gear 
 **My current gear**
 
-**Body**: [Fujifilm X-T2](https://www.bhphotovideo.com/c/product/1308957-REG/fujifilm_16519247_kit_x_t2_mirrorless_digital_camera.html/mode/edu)  
-**Lenses**:
-[Kit 18-55mm f/2.8 - 4](https://www.bhphotovideo.com/c/product/883530-STUD/Fujifilm_XF_18_55mm_f_2_8_4_OIS.html/mode/edu)  
+**Body**:  
+[Fujifilm X-T2](https://www.bhphotovideo.com/c/product/1308957-REG/fujifilm_16519247_kit_x_t2_mirrorless_digital_camera.html/mode/edu)  
+**Lenses**:  
+[Kit 18-55mm f/2.8 - 4](https://www.bhphotovideo.com/c/product/883530-STUD/Fujifilm_XF_18_55mm_f_2_8_4_OIS.html/mode/edu) _standard carry_  
 [Fujifilm XF 35mm f/2 R WR](https://www.bhphotovideo.com/c/product/1191420-REG/fujifilm_xf_35mm_f_2_r.html)   
 	- 🎥 [Review](https://www.youtube.com/watch?v=Gb93X8uC5oo) 
-[Rokinon RK12M-FX-SIL 12mm F2.0 Ultra Wide Angle Lens](https://www.amazon.com/gp/product/B00K3T3GFY/ref=oh_aui_search_detailpage?ie=UTF8&psc=1)   
-[FUJIFILM Macro Extension Tube MCEX-11](https://www.amazon.com/gp/product/B00PVP07QG/ref=oh_aui_search_detailpage?ie=UTF8&psc=1)  
+[Rokinon RK12M-FX-SIL 12mm F2.0 Ultra Wide Angle Lens](https://www.amazon.com/gp/product/B00K3T3GFY/ref=oh_aui_search_detailpage?ie=UTF8&psc=1) What I used for my astrophotography. A nice, inexpensive, manual lens.  
+[FUJIFILM Macro Extension Tube MCEX-11](https://www.amazon.com/gp/product/B00PVP07QG/ref=oh_aui_search_detailpage?ie=UTF8&psc=1)  _Does nice macros when paired with my 18-55._  
 
 
 **Gear wishlist**
