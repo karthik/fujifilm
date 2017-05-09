@@ -10,12 +10,14 @@ I used to love shooting with my dad's manual camera growing up and have happily 
 # Gear 
 **My current gear**
 
-Body: [Fujifilm X-T2](https://www.bhphotovideo.com/c/product/1308957-REG/fujifilm_16519247_kit_x_t2_mirrorless_digital_camera.html/mode/edu)  
-Lenses:
+**Body**: [Fujifilm X-T2](https://www.bhphotovideo.com/c/product/1308957-REG/fujifilm_16519247_kit_x_t2_mirrorless_digital_camera.html/mode/edu)  
+**Lenses**:
 [Kit 18-55mm f/2.8 - 4](https://www.bhphotovideo.com/c/product/883530-STUD/Fujifilm_XF_18_55mm_f_2_8_4_OIS.html/mode/edu)  
 [Fujifilm XF 35mm f/2 R WR](https://www.bhphotovideo.com/c/product/1191420-REG/fujifilm_xf_35mm_f_2_r.html)   
 	- 🎥 [Review](https://www.youtube.com/watch?v=Gb93X8uC5oo) 
 [Rokinon RK12M-FX-SIL 12mm F2.0 Ultra Wide Angle Lens](https://www.amazon.com/gp/product/B00K3T3GFY/ref=oh_aui_search_detailpage?ie=UTF8&psc=1)   
+[FUJIFILM Macro Extension Tube MCEX-11](https://www.amazon.com/gp/product/B00PVP07QG/ref=oh_aui_search_detailpage?ie=UTF8&psc=1)  
+
 
 **Gear wishlist**
 
@@ -23,7 +25,7 @@ Lenses:
 - [Fujinon XF56mmF1.2 R](https://www.amazon.com/dp/B00HK8Z9AG/ref=wl_it_dp_o_pC_nS_ttl?_encoding=UTF8&colid=3VM4106Z470GQ&coliid=IX3IL0S73SZY4) 
 	- Reviews: 
 		- Video reviews 
-			- General review [1](https://www.youtube.com/watch?v=EMVFVt52fAQ), [2](https://www.youtube.com/watch?v=4aDiDEVXcmA), [3](https://www.youtube.com/watch?v=7EvsIRDguQQ))
+			- General review 🎥 [1](https://www.youtube.com/watch?v=EMVFVt52fAQ), [2](https://www.youtube.com/watch?v=4aDiDEVXcmA), [3](https://www.youtube.com/watch?v=7EvsIRDguQQ))
 		- Other reviews
 			- [Can it be used for other than portraits?](https://www.dpreview.com/forums/thread/3936689)
 			- 
@@ -38,17 +40,17 @@ I doubt I'll buy these anytime soon but I'm really intrigued by the Velvet 56.
 - [Composer Pro II](https://lensbaby.com/product/composer-pro-ii-with-sweet-50-optic/)
 
 **A reasonable dream kit**  
-Since I don't have endless funds, this is the kit I'm shooting for:
-Zoom:
+Since I don't have endless funds, this is the kit I'm shooting for:  
+**Zoom**:  
 - Fujifilm 16-55
 - Fujifilm 10-24
 - Fujifilm 50-140
-Prime:
+**Primes:**  
 - XF 35mm
 -  XF 56mm, f/1.2
 
 
-**Lens suggestions**  
+****Lens suggestions from seasoned photographers**   
 
 - [Best fuji lenses for x-mount](http://shotkit.com/best-fuji-lenses/)  
 - [Best lenses video](https://www.youtube.com/watch?v=im6pLd2hghA)
@@ -61,8 +63,8 @@ Prime:
 - [Must have accessories for the X-T2](https://alikgriffin.com/must-have-accessories-for-the-fujifilm-x-t2/)
 
 **Camera Bags**  
-- [Lowerpro protactic 450 AW](https://www.youtube.com/watch?v=miwQIbwrcmU)
-I don't have this yet but it seems like the best setup for me to carry everything for a shoot, that is not just a casual photo walk or a hike (where I have to pack all gear into my existing backpack)
+- [Lowerpro protactic 450 AW](https://www.youtube.com/watch?v=miwQIbwrcmU)  
+_I don't have this yet but it seems like the best setup for me to carry everything for a shoot, that is not just a casual photo walk or a hike (where I have to pack all gear into my existing backpack)_
 
 ---
 
@@ -86,3 +88,6 @@ I don't have this yet but it seems like the best setup for me to carry everythin
 
 **Technical stuff**
 - [Film simulation modes](https://fujilove.com/fujifilms-film-simulation-modes-and-what-they-are-actually-doing-to-your-images/)
+
+**Books**  
+- [The Fujifilm X-T2: 120 X-Pert Tips to Get the Most Out of Your Camera Kindle Edition](https://www.amazon.com/Fujifilm-X-T2-X-Pert-Tips-Camera-ebook/dp/B01N7J9TWB/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=)  
