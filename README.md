@@ -45,6 +45,7 @@ Since I don't have endless funds, this is the kit I'm shooting for:
 - Fujifilm 16-55
 - Fujifilm 10-24
 - Fujifilm 50-140
+
 **Primes:**  
 - XF 35mm
 -  XF 56mm, f/1.2
@@ -70,6 +71,7 @@ _I don't have this yet but it seems like the best setup for me to carry everythi
 
 # Guides
 
+**Very general stuff**   
 - [Getting started with X-T2](https://www.youtube.com/watch?v=V3P7kkCULgE)
 - [X-T1 Overview Training Tutorial](https://www.youtube.com/watch?v=Udq5ua8_l7k)
 - [Fuji Xt1 XT2 Tip: Learn Your Function Buttons! (Step by Step Tutorial)](https://www.youtube.com/watch?v=An3GYfnqcao)
