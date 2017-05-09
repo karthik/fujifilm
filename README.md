@@ -3,12 +3,8 @@
 I used to love shooting with my dad's manual camera growing up and have happily revived that passion as of February. I've accummulated a ton of resources since Feb '2017 and this repo is a collection of those resources for myself and others.
 
 **TOC**
-- Gear
-- Gear wishlist
-- Wishlist
-- Gear guides
-- Guides
-- Videos
+- [Gear](https://github.com/karthik/fujifilm#gear)
+- [Guides](https://github.com/karthik/fujifilm#guides)
 ---
 
 # Gear 
@@ -17,9 +13,9 @@ I used to love shooting with my dad's manual camera growing up and have happily 
 Body: [Fujifilm X-T2](https://www.bhphotovideo.com/c/product/1308957-REG/fujifilm_16519247_kit_x_t2_mirrorless_digital_camera.html/mode/edu)  
 Lenses:
 [Kit 18-55mm f/2.8 - 4](https://www.bhphotovideo.com/c/product/883530-STUD/Fujifilm_XF_18_55mm_f_2_8_4_OIS.html/mode/edu)  
-[Fujifilm XF 35mm f/2 R WR](https://www.bhphotovideo.com/c/product/1191420-REG/fujifilm_xf_35mm_f_2_r.html) 
+[Fujifilm XF 35mm f/2 R WR](https://www.bhphotovideo.com/c/product/1191420-REG/fujifilm_xf_35mm_f_2_r.html)   
 	- 🎥 [Review](https://www.youtube.com/watch?v=Gb93X8uC5oo) 
-[Rokinon RK12M-FX-SIL 12mm F2.0 Ultra Wide Angle Lens](https://www.amazon.com/gp/product/B00K3T3GFY/ref=oh_aui_search_detailpage?ie=UTF8&psc=1) 
+[Rokinon RK12M-FX-SIL 12mm F2.0 Ultra Wide Angle Lens](https://www.amazon.com/gp/product/B00K3T3GFY/ref=oh_aui_search_detailpage?ie=UTF8&psc=1)   
 
 **Gear wishlist**
 
@@ -36,12 +32,12 @@ Lenses:
 
 My full Fuji lens wishlist is [here](https://www.amazon.com/gp/registry/wishlist/3VM4106Z470GQ/ref=cm_wl_list_o_6?)
 
-**Artsy lenses**
+**Artsy lenses**  
 I doubt I'll buy these anytime soon but I'm really intrigued by the Velvet 56.
 - [Velvet 56](http://lensbaby.com/product/velvet-56/)
 - [Composer Pro II](https://lensbaby.com/product/composer-pro-ii-with-sweet-50-optic/)
 
-**A reasonable dream kit**
+**A reasonable dream kit**  
 Since I don't have endless funds, this is the kit I'm shooting for:
 Zoom:
 - Fujifilm 16-55
@@ -52,7 +48,7 @@ Prime:
 -  XF 56mm, f/1.2
 
 
-**Lens suggestions**
+**Lens suggestions**  
 
 - [Best fuji lenses for x-mount](http://shotkit.com/best-fuji-lenses/)  
 - [Best lenses video](https://www.youtube.com/watch?v=im6pLd2hghA)
@@ -61,10 +57,10 @@ Prime:
 - [Switchback best lenses suggestions](http://www.switchbacktravel.com/best-lenses-fujifilm-x-t2)
 - [Full list of X-mount lenses](https://alikgriffin.com/a-complete-list-of-fujifilm-x-mount-lenses/)
 
-**Non-lens suggestions**
+**Non-lens suggestions**  
 - [Must have accessories for the X-T2](https://alikgriffin.com/must-have-accessories-for-the-fujifilm-x-t2/)
 
-**Camera Bags**
+**Camera Bags**  
 - [Lowerpro protactic 450 AW](https://www.youtube.com/watch?v=miwQIbwrcmU)
 I don't have this yet but it seems like the best setup for me to carry everything for a shoot, that is not just a casual photo walk or a hike (where I have to pack all gear into my existing backpack)
 
