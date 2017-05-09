@@ -84,7 +84,7 @@ _I don't have this yet but it seems like the best setup for me to carry everythi
 - [Astrophotography review](http://www.lonelyspeck.com/fujifilm-x-t1-astrophotography-review/)
 
 **Landscape photography**
-- [FUJI MIRRORLESS SYSTEM FOR LANDSCAPE PHOTOGRAPHY](https://www.exploringexposure.com/blog/2014/10/21/fuji-landscape-photography)
+- [Fuji Mirrorless System For Landscape Photography](https://www.exploringexposure.com/blog/2014/10/21/fuji-landscape-photography)
 
 **Technical stuff**
 - [Film simulation modes](https://fujilove.com/fujifilms-film-simulation-modes-and-what-they-are-actually-doing-to-your-images/)
